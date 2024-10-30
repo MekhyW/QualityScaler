@@ -62,13 +62,11 @@ External packages are:
 Prerequisites.
 - Python installed on your pc (https://www.python.org/downloads/release/python-3119/)
 - VSCode installed on your pc (https://code.visualstudio.com/)
-- AI models downloaded (https://gofile.io/d/hIOmMc)
 - FFMPEG.exe downloaded (https://www.gyan.dev/ffmpeg/builds/) RELEASE BUILD > ffmpeg-release-essentials.7z
 
 Getting started.
 - Download the project on your PC (Green button Code > Download ZIP)
 - Extract the project from the .zip
-- Extract the AI models files in /AI-onnx folder
 - Extract FFMPEG.exe in /Assets folder
 - Open the project with VSCode (Drag&Drop the project directory on VSCode)
 - Click on QualityScaler.py from left bar (VSCode will ask to install Python plugins)
